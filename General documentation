@@ -1,1 +1,7 @@
-This app will be used to help people know which lure to use to catch fish. It will also be used to gather data on which lures people are using to catch certain fish to become more accurate over time.
+This app will be used to help people know which lure to use to catch fish. It will also be used to gather data on which lures people are using to catch certain 
+fish to become more accurate over time.
+The app will be in a form formate with the user entering in information about what body of water they are fishing in, what type of fish they are trying to catch,
+what water features there are as well as the date to determin what time of year it is. With that information given the app will then suggest a lure to catch that fish.
+
+The success tab of the app used to gather data about what lures are being used to catch which fish will also be in a form format. The user will provide what lure was used,
+the body of water they were fishing in, what water features were present, the date, and finally what type of fish was caught.
